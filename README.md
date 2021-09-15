@@ -1,2 +1,2 @@
 # cplusplus
-A small repository with scripts and programs I wrote in C++ to learn.
+A small repository with scripts and programs I wrote to learn C++.
