@@ -1,3 +1,4 @@
 cplusplus.code-workspace
 .vscode/launch.json
 .vscode/tasks.json
+.gitignore
