@@ -1,2 +1,3 @@
-# cplusplus
-A small repository with scripts and programs I wrote to learn C++.
+# arduino
+
+A small repository with scripts I wrote to learn Arduino / C++
